@@ -1,0 +1,5 @@
+print("DHIRAJ JUNGHARE")
+p = float(input("PRINCIPLE ="))
+r = float(input("RATE ="))
+t = float(input("TIME ="))
+print("SIMPLE INTREST",(p*r*t)/100)
