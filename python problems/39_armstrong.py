@@ -1,0 +1,5 @@
+print("DHIRAJ JUNGHARE")
+num = int(input())
+order = len(str(num))
+total = sum(int(d)**order for d in str(num))
+print("Armstrong" if total == num else "Not Armstrong")
