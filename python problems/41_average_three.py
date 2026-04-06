@@ -1,0 +1,5 @@
+print("DHIRAJ JUNGHARE")
+a = float(input())
+b = float(input())
+c = float(input())
+print("AVERAGE",(a+b+c)/3)
