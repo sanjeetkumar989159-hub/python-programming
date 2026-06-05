@@ -6,4 +6,3 @@ month=int(input("enter month:"))
 cal=calendar.month(year,month)
 print(cal)
 
-
