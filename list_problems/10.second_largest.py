@@ -5,7 +5,6 @@ n = int(input("Enter the size of the list : "))
 if(n <= 1):
     print("Not possible")
     exit()
-
 arr = []
 
 for i in range(n):
