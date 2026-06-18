@@ -11,7 +11,6 @@ arr = []
 for i in range(n):
     value = int(input("Enter values : "))
     arr.append(value)
-
 print("The list is : ",arr)
 
 # Use bubble sort
