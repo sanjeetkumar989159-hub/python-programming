@@ -15,7 +15,6 @@ print("The list is : ",arr)
 
 max = float('-inf')
 sec_max = float('-inf')
-
 for i in range(n):
     if max < arr[i]:
         sec_max = max
